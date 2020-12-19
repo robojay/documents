@@ -33,13 +33,15 @@ The communications systems enabled by these efforts are intended to greatly enha
 
 The transponder and modem are closely related in chicken and egg fashion. A functional system requires both and they must be fully compatible with each other. P4XT organizes these two efforts as separate co-projects that will be closely coordinated: the transponder project (P4XDMT), and the modem project (P4XM).
 
+[P4XT Proposal](https://www.openresearch.institute/wp-content/uploads/2020/01/p4xt_proposal.pdf)
+
+[Phase 2 Statement of Work](https://www.ampr.org/wp-content/uploads/Proposal-ORI-P4XT-phase-2.pdf)
+
 
 ---
 #### P4XDMT - Digital Multiplexing Transponder (DMT)
 
 ##### Specifications
-
-[Statement of Work](https://www.ampr.org/wp-content/uploads/Proposal-ORI-P4XT-phase-2.pdf)
 
 ##### Subsections
 
@@ -67,7 +69,7 @@ The transponder and modem are closely related in chicken and egg fashion. A func
 Phase 4 Space Trello Board (see Slack for an invite link, pinned in the #general channel)
 
 ---
-#### P4XM - Low-cost Modem for use with the DMT
+#### P4XM - Low-cost Modem and Transceiver for use with the DMT
 
 ##### Specifications
 
