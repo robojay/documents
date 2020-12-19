@@ -3,7 +3,7 @@
 #### The Basics
 ---
 
-Do you want to join, participate, work on, contribute to, follow, or support an the Phase 4 Ground and/or Space Projects?
+Do you want to join, participate, work on, contribute to, follow, or support the Phase 4 Ground and/or Space Projects?
 
 1. Join the [mailing list](http://lists.openresearch.institute/listinfo.cgi/ground-station-openresearch.institute)
 
@@ -22,10 +22,20 @@ Do you want to join, participate, work on, contribute to, follow, or support an 
 5. Introduce yourself! Welcome to the project, we are so happy you are here.
 ---
 ### Explore the Projects
+
+The current focus is on the Multiplexing Transponder Program (P4XT) under a [Phase 2 grant](https://www.ampr.org/grants/grant-open-research-institute-p4xt-phase-2/) received from [Amateur Radio Digital Communications](https://www.ampr.org).
+
+The goal of P4XT is to produce open-source Digital Multiplexing Transponders (DMTs) for the Amateur Radio Service Microwave Bands. These DMTs will be suitable for deployment in Geostationary Orbit. In addition, the program will produce a low-cost modem for use with these transponders. The communications systems enabled by these efforts are intended to greatly enhance the purposes of the Amateur Radio and Amateur Radio Satellite services.
+
+The orbiting transponder in space and the modem on the ground are closely related in chicken and egg fashion. A functional system requires both and they must be fully compatible with each other. The engineering efforts required for implementing these two projects, however, involve largely different skill sets. Accordingly, P4XT will organize these two efforts as separate co-projects that will be closely coordinated. We refer to the transponder project as P4XDMT. We refer to the ground-based modem project as P4XM.
+
+
 ---
 #### Digital Multiplexing Transponder
 
 ##### Specifications
+
+[Statement of Work](https://www.ampr.org/wp-content/uploads/Proposal-ORI-P4XT-phase-2.pdf)
 
 ##### Subsections
 
