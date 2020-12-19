@@ -25,9 +25,13 @@ Do you want to join, participate, work on, contribute to, follow, or support the
 
 Our current focus is on the Multiplexing Transponder Program (P4XT) under a [Phase 2 grant](https://www.ampr.org/grants/grant-open-research-institute-p4xt-phase-2/) received from [Amateur Radio Digital Communications](https://www.ampr.org).
 
-The goal of P4XT is to produce open-source Digital Multiplexing Transponders (DMTs) for the Amateur Radio Service Microwave Bands. These DMTs will be suitable for deployment in both space and as terrestrial microwave stations. In addition, the program will produce a low-cost modem for use with these transponders. The communications systems enabled by these efforts are intended to greatly enhance the purposes of Amateur Radio and Amateur Radio Satellite services.
+The goal of P4XT is to produce an open-source Digital Multiplexing Transponder (DMT) for the Amateur Radio Service Microwave Bands. These DMTs will be suitable for deployment in both space and as terrestrial microwave stations. DMTs will be capable of receiving a multitude of digital signals at varying bandwidths/data rates (e.g. high-bandwidth data or multimedia, lower bandwidth voice or short text messages, etc.) and multiplexing these into a single high bandwidth transmit channel.
 
-The transponder and modem are closely related in chicken and egg fashion. A functional system requires both and they must be fully compatible with each other. P4XT organizes these two efforts as separate co-projects that will be closely coordinated. We refer to the transponder project as P4XDMT. We refer to the modem project as P4XM.
+In addition, the program will produce an open-source low-cost modem and transceiver for use with these transponders. These devices will be capable of encoding/transmitting digital signals compatible with the DMT's input, and receiving/decoding digital signals from the DMT's output.  Similar to the DMTs, these devices will utilize varying bandwidths/data rates to transmit/receive high-bandwidth data or multimedia, as well as lower bandwidth voice or short text messages, etc.
+
+The communications systems enabled by these efforts are intended to greatly enhance the purposes of Amateur Radio and Amateur Radio Satellite services.
+
+The transponder and modem are closely related in chicken and egg fashion. A functional system requires both and they must be fully compatible with each other. P4XT organizes these two efforts as separate co-projects that will be closely coordinated: the transponder project (P4XDMT), and the modem project (P4XM).
 
 
 ---
