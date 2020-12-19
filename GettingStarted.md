@@ -31,7 +31,7 @@ The transponder and modem are closely related in chicken and egg fashion. A func
 
 
 ---
-#### Digital Multiplexing Transponder
+#### P4XDMT - Digital Multiplexing Transponder (DMT)
 
 ##### Specifications
 
@@ -60,10 +60,10 @@ The transponder and modem are closely related in chicken and egg fashion. A func
 ##### Project Plan/Schedule
 
 ##### Active Work
-Phase 4 Ground Trello Board (see Slack for an invite link, pinned in the #general channel)
+Phase 4 Space Trello Board (see Slack for an invite link, pinned in the #general channel)
 
 ---
-#### Phase 4 Ground
+#### P4XM - Low-cost Modem for use with the DMT
 
 ##### Specifications
 
@@ -91,16 +91,6 @@ Phase 4 Ground Trello Board (see Slack for an invite link, pinned in the #genera
 
 ##### Active Work
 Phase 4 Ground Trello Board (see Slack for an invite link, pinned in the #general channel)
-
----
-#### Phase 4 Space
-
-##### Specifications
-
-##### Project Plan/Schedule
-
-##### Active Work
-Phase 4 Space Trello Board (see Slack for an invite link, pinned in the #general channel)
 
 ---
 #### Infrastructure
