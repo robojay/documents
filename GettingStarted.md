@@ -23,11 +23,11 @@ Do you want to join, participate, work on, contribute to, follow, or support the
 ---
 ### Explore the Projects
 
-The current focus is on the Multiplexing Transponder Program (P4XT) under a [Phase 2 grant](https://www.ampr.org/grants/grant-open-research-institute-p4xt-phase-2/) received from [Amateur Radio Digital Communications](https://www.ampr.org).
+Our current focus is on the Multiplexing Transponder Program (P4XT) under a [Phase 2 grant](https://www.ampr.org/grants/grant-open-research-institute-p4xt-phase-2/) received from [Amateur Radio Digital Communications](https://www.ampr.org).
 
-The goal of P4XT is to produce open-source Digital Multiplexing Transponders (DMTs) for the Amateur Radio Service Microwave Bands. These DMTs will be suitable for deployment in Geostationary Orbit. In addition, the program will produce a low-cost modem for use with these transponders. The communications systems enabled by these efforts are intended to greatly enhance the purposes of the Amateur Radio and Amateur Radio Satellite services.
+The goal of P4XT is to produce open-source Digital Multiplexing Transponders (DMTs) for the Amateur Radio Service Microwave Bands. These DMTs will be suitable for deployment in both space and as terrestrial microwave stations. In addition, the program will produce a low-cost modem for use with these transponders. The communications systems enabled by these efforts are intended to greatly enhance the purposes of Amateur Radio and Amateur Radio Satellite services.
 
-The orbiting transponder in space and the modem on the ground are closely related in chicken and egg fashion. A functional system requires both and they must be fully compatible with each other. The engineering efforts required for implementing these two projects, however, involve largely different skill sets. Accordingly, P4XT will organize these two efforts as separate co-projects that will be closely coordinated. We refer to the transponder project as P4XDMT. We refer to the ground-based modem project as P4XM.
+The transponder and modem are closely related in chicken and egg fashion. A functional system requires both and they must be fully compatible with each other. P4XT organizes these two efforts as separate co-projects that will be closely coordinated. We refer to the transponder project as P4XDMT. We refer to the modem project as P4XM.
 
 
 ---
